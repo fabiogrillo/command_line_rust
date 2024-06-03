@@ -16,8 +16,8 @@ Each command is contained in its own folder within the project directory. The st
 Below is a list of the commands and their corresponding folders:
 
 - `/echor`: An echo command implementation.
-- *(Add more commands here as you develop them)*
-
+- `/catr`: A catr command implementation.
+- `/headr`: A head command implementation.
 
 ## Getting Started
 1. **Clone the repository:**
